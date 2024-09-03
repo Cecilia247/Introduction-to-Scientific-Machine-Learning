@@ -5,4 +5,4 @@ From the information I've read, USACE runs R for rivers, geomorphology, etc., an
 Uncertainty analysis covers a wider realm than dam safety and coastal design. Statistics and probability are applied to various disciplines, including engineering, physics, biology, meteorology, astronomy, social sciences, and others.
 I hope you have fun with these. Homework 6 was the most entertaining; one of the tasks was mapping a cluster of stars. 
 
-Please look at the followers for references from professors and class information. 
+Please look at the followers for references from professors and class information. The homework they have now may be slightly different. 
